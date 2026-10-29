@@ -1,14 +1,20 @@
 {
-  "version": "0.0.0-development",
+  "version": "5.0.1-lineaje-01",
   "name": "mkdirp-promise",
   "description": "Promise version of mkdirp",
   "author": "Ahmad Nassri <ahmad@ahmadnassri.com> (https://www.ahmadnassri.com/)",
   "homepage": "https://github.com/ahmadnassri/mkdirp-promise",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ahmadnassri/mkdirp-promise.git"
+    "url": "https://github.com/lineaje-labs-gos/ahmadnassri-mkdirp-promise"
   },
   "license": "ISC",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "main": "lib/index.js",
   "keywords": [
     "mkdirp",
